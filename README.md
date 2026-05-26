@@ -1,10 +1,30 @@
 # Forza Skillpoints AFK Macro
-A private forza horizon 6 afk macro for farming a lot of skillpoints
+A semi-private forza horizon 6 afk macro for farming a lot of skillpoints
+_*This idea of the macro is coming from the popular Romanian YouTuber/Kicker Highman, he have this type of macro but i've seen a big problem on that, you need to subscribe to his kick, which is not free, so i decided to make this FREE, with some minor things, it is entirely free but is still uses a HWID/Binded keys, meaning i still need to give you a key to access it if you're a good person hah, anyway, it offers an offline mode too, meaning after you activate your key, even if my servers/database is down, you can still access the tool as long as you keep the AppData/Roaming/CeZeY_Macro/license.dat, that license.dat is your encrypted own unique license/key, which nobody can use because it is binded to your motherboard HWID.
+
+## ✅ Features:
+- Automatic full AFK farm (Skillpoints only for now)
+- Automatic loading screen timmers
+- The tool shows what it's doing in TEXT
+- Offline Mode: you can use this whenever you want even when my servers/database is offline
+- Shows how many races it completed in the process
+[ (999 skillpoints is max in the game, levels xp i don't think there's an cap, after you get 999 SP, buy a lot of subarus (the same 22B), and purchase the super wheelspins (how many you want until you reach 0 sp again) ]
 
 
-## Usage:
-- Open the app
-- Enter your private code
+###  ⚙️ Usage ⚙️:
+1. FIRST STEPS:
+- You need the 22B Subaru (1998)
+- You need a specific tunning code for it: 325 360 351
+- You need the specific map code: 890 169 683
+- You need to change your difficulty settings to: Unbeatable drivatars, Auto-Steering, Anti-Lock Off, Driving lines FULL, Traction Control ON, Stability OFF, Shifting AUTOMATIC, then rest is up to you
+
+2. SECOND STEPS:
+- Start the tool
+- Click Yes at the admin UAC prompt (it uses import keyboard in the code so it needs UAC)
+- Put your unique private code in the code section (i wrote above how to get it)
 - Click OK
-- Click START button when you're hovering the "Start Race Event"
-- Enjoy
+- You should be verified
+- Alt+Enter forza so you be in Windowed mode, then decrease the size of the window of forza and put the app along it (it isn't necessary but it's recommended to see what the tool is doing)
+- In forza when you get into the map, hover over the "Start race event" button but don't enter, go back to the tool and click START, after you clicked start, fast go back to the forza window, the tool should start after 3 seconds
+- That's it
+- Enjoy.
