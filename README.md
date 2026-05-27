@@ -8,7 +8,6 @@ A public (previously was semi-private) forza horizon 6 afk macro for farming a l
 - Automatic full AFK farm (Skillpoints only for now)
 - Automatic loading screen timmers
 - The tool shows what it's doing in TEXT
-- Offline Mode: you can use this whenever you want even when my servers/database is offline
 - Shows how many races it completed in the process
 [ (999 skillpoints is max in the game, levels xp i don't think there's an cap, after you get 999 SP, buy a lot of subarus (the same 22B), and purchase the super wheelspins (how many you want until you reach 0 sp again) ]
 
@@ -23,9 +22,6 @@ A public (previously was semi-private) forza horizon 6 afk macro for farming a l
 2. SECOND STEPS:
 - Start the tool
 - Click Yes at the admin UAC prompt (it uses import keyboard in the code so it needs UAC)
-- Put your unique private code in the code section (i wrote above how to get it)
-- Click OK
-- You should be verified
 - Alt+Enter forza so you be in Windowed mode, then decrease the size of the window of forza and put the app along it (it isn't necessary but it's recommended to see what the tool is doing)
 - In forza when you get into the map, hover over the "Start race event" button but don't enter, go back to the tool and click START, after you clicked start, fast go back to the forza window, the tool should start after 3 seconds
 - That's it
