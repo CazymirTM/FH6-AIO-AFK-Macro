@@ -1,7 +1,8 @@
 # Forza Skillpoints AFK Macro
 A public (previously was semi-private) forza horizon 6 afk macro for farming a lot of skillpoints
 **This idea of the macro is coming from the popular Romanian YouTuber/Kicker Highman, he have this type of macro but i've seen a big problem on that, you need to subscribe to his kick, which is not free,** so i decided to make this FREE with some basic features.
-**For people that want to try out beta features/early access features, here's the beta branch and go look there, it contains the download latest for every newest beta i release _https://github.com/CazymirTM/Forza-Skillpoints-AFK-Macro/tree/beta_ **
+
+**For people that want to try out beta features/early access features, here's the beta branch and go look there, it contains the download latest for every newest beta i release: https://github.com/CazymirTM/Forza-Skillpoints-AFK-Macro/tree/beta**
 
 [![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-red?style=for-the-badge&logo=github)](https://github.com/CazymirTM/Forza-Skillpoints-AFK-Macro/releases/latest)
 
