@@ -7,7 +7,7 @@ A public (previously was semi-private) forza horizon 6 afk macro for farming a l
 ## ✅ Features:
 - Automatic full AFK farm (Skillpoints only for now)
 - Automatic loading screen timmers
-- The tool shows what it's doing in TEXT
+- The tool shows what it's doing in a text label
 - Shows how many races it completed in the process
 [ (999 skillpoints is max in the game, levels xp i don't think there's an cap, after you get 999 SP, buy a lot of subarus (the same 22B), and purchase the super wheelspins (how many you want until you reach 0 sp again) ]
 
