@@ -1,7 +1,7 @@
 # Forza Skillpoints AFK Macro (Beta Version)
 This is the beta version of the macro, i will release beta features here or early access features (still for free).
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-red?style=for-the-badge&logo=github)](https://github.com/CazymirTM/Forza-Skillpoints-AFK-Macro/releases/tag/v2.1.1)
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-red?style=for-the-badge&logo=github)](https://github.com/CazymirTM/Forza-Skillpoints-AFK-Macro/releases/tag/v2.1.2)
 
 ## 🗺️ Roadmap:
 - Adding 2 different buttons for skillpoint farm and goliath farm bundled in one
