@@ -4,7 +4,7 @@ This is the beta version of the macro, i will release beta features here or earl
 [![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-red?style=for-the-badge&logo=github)](https://github.com/CazymirTM/Forza-Skillpoints-AFK-Macro/releases/tag/v2.1.2)
 
 ## 🗺️ Roadmap:
-- Adding 2 different buttons for skillpoint farm and goliath farm bundled in one
+- ~~Adding multiple macros in one (AIO)~~ 
 - Auto focus on forza horizon 6 window so you don't need to fast click anymore when you start the macro
 - Adding loading screen seconds selection for users that have a slow pc and cannot load the loading screens fast/normal
 
