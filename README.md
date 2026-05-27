@@ -9,4 +9,4 @@ This is the beta version of the macro, i will release beta features here or earl
 
 
 ### 🛠️ Current Beta Features:
-- <null>
+- New macros added into one tool: Anti-AFK (taps A then waits 5 seconds then taps A again), Anti-AFK + W (for long races, does the same as the first but holds W depending on what macro you choose)
