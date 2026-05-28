@@ -1,5 +1,5 @@
 # Forza Skillpoints AFK Macro
-**INFO: Playground released a new update which seems to have patched all kind of macros, my friend tested and after 25 races you no longer get points, so i guess that's it then, if i will find a bypass in the future i will update this macro, if not, farewell, if you want SP, CR, etc, use AIOs or unlocker (risky but it's up to you if it's worth the risk)**
+**INFO: Playground released a new update which seems to have patched all kind of macros, my friend tested and after 25 races you no longer get points, so i guess that's it then, if i will find a bypass in the future i will update this macro, if not, farewell, if you want SP, CR, etc, use AIOs or unlocker (risky but it's up to you if it's worth the risk), if this still works for you, then you're lucky**
 
 
 A public (previously was semi-private) forza horizon 6 afk macro for farming a lot of skillpoints
