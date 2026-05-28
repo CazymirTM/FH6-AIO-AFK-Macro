@@ -1,6 +1,7 @@
 # Forza Skillpoints AFK Macro
+**INFO: Playground released a new update which seems to patched all kind of macros, my friend tested and after 25 races you no longer get points, so i guess that's it then, if i will find a bypass in the future i will update this macro, if not, farewell, if you want SP, CR, etc, use AIOs or unlocker (risky but it's up to you if it's worth the risk)*
 A public (previously was semi-private) forza horizon 6 afk macro for farming a lot of skillpoints
-**This idea of the macro is coming from the popular Romanian YouTuber/Kicker Highman, he have this type of macro but i've seen a big problem on that, you need to subscribe to his kick, which is not free,** so i decided to make this FREE with some basic features.
+This idea of the macro is coming from the popular Romanian YouTuber/Kicker Highman, he have this type of macro but i've seen a big problem on that, you need to subscribe to his kick, which is not free, so i decided to make this FREE with some basic features.
 
 **For people that want to try out beta features/early access features, here's the beta branch and go look there, it contains the download latest for every newest beta i release: https://github.com/CazymirTM/Forza-Skillpoints-AFK-Macro/tree/beta**
 
