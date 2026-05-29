@@ -1,5 +1,5 @@
 # Forza Skillpoints AFK Macro
-**INFO: Playground released a new update which seems to have patched all kind of macros, my friend tested and after 25 races you no longer get points, so i guess that's it then, if i will find a bypass in the future i will update this macro, if not, farewell, if you want SP, CR, etc, use AIOs or unlocker (risky but it's up to you if it's worth the risk), if this still works for you, then you're lucky**
+**INFO NEW: Playground released a new update which seems to have patched all kind of macros, but im not giving up yet, i have kinda released a new version in the beta branch (v2.1.3) that kinda acts like a mini-bypass, still it's work in progress but if you want to try it and test it, please post every issue in the issues category**
 
 **INFO 2: Seems like for some players the afk skillpoints still work, i don't know any more usefull information than this, just that it works for others and for others not**
 
