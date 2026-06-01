@@ -3,7 +3,8 @@ A public (previously was semi-private) All-In-One FH6, this idea started from a 
 
 **For people that want to try out beta features/early access features, here's the beta branch and go look there, it contains the download latest for every newest beta i release: https://github.com/CazymirTM/Forza-Skillpoints-AFK-Macro/tree/beta**
 
-<sup>Click here to download the latest version of the MAIN branch<sup>
+
+<sup>Click here to download the latest version of the MAIN branch:<sup>
 
 [![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-red?style=for-the-badge&logo=github)](https://github.com/CazymirTM/Forza-Skillpoints-AFK-Macro/releases/latest)
 
