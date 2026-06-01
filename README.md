@@ -1,14 +1,9 @@
-# Forza Skillpoints AFK Macro
-**INFO NEW: Playground released a new update which seems to have patched all kind of macros, but im not giving up yet, i have kinda released a new version in the beta branch (v2.1.3) that kinda acts like a mini-bypass, still it's work in progress but if you want to try it and test it, please post every issue in the issues category**
-
-**INFO 2: Seems like for some players the afk skillpoints still work, i don't know any more usefull information than this, just that it works for others and for others not**
-
-
-A public (previously was semi-private) forza horizon 6 afk macro for farming a lot of skillpoints
-This idea of the macro is coming from the popular Romanian YouTuber/Kicker Highman, he have this type of macro but i've seen a big problem on that, you need to subscribe to his kick, which is not free, so i decided to make this FREE with some basic features.
+# Forza Horizon 6 AFK AIO Macro
+A public (previously was semi-private) All-In-One FH6, this idea started from a very basic macro and basic functions, now servers as an AIO that contains multiple macros, with mostly based on the principal macro that is/was made exactly for farming Skillpoints/XP
 
 **For people that want to try out beta features/early access features, here's the beta branch and go look there, it contains the download latest for every newest beta i release: https://github.com/CazymirTM/Forza-Skillpoints-AFK-Macro/tree/beta**
 
+<sup>Click here to download the latest version of the MAIN branch<sup>
 [![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-red?style=for-the-badge&logo=github)](https://github.com/CazymirTM/Forza-Skillpoints-AFK-Macro/releases/latest)
 
 ## ✅ Features:
