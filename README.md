@@ -9,14 +9,15 @@ A public (previously was semi-private) All-In-One FH6, this idea started from a 
 [![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-red?style=for-the-badge&logo=github)](https://github.com/CazymirTM/Forza-Skillpoints-AFK-Macro/releases/latest)
 
 ## ✅ Features:
-- Automatic full AFK farm (Skillpoints only for now)
+- Automatic full AFK farm (Skillpoints, 40m colossal race, 1.5 hours colossal, 6 hours colossal)
 - Automatic loading screen timmers
 - The tool shows what it's doing in a text label
 - Shows how many races it completed in the process
-[ (999 skillpoints is max in the game, levels xp i don't think there's an cap, after you get 999 SP, buy a lot of subarus (the same 22B), and purchase the super wheelspins (how many you want until you reach 0 sp again) ]
+- Can switch the macro mode with just 2 clicks
+- All-In-One (meaning multiple macros in just one tool)
 
 
-###  ⚙️ Usage ⚙️:
+###  ⚙️ Usage (Skillpoints Macro) ⚙️:
 1. FIRST STEPS:
 - You need the 22B Subaru (1998)
 - You need a specific tunning code for it: 325 360 351
@@ -30,3 +31,8 @@ A public (previously was semi-private) All-In-One FH6, this idea started from a 
 - In forza when you get into the map, hover over the "Start race event" button but don't enter, go back to the tool and click START, after you clicked start, fast go back to the forza window, the tool should start after 3 seconds
 - That's it
 - Enjoy.
+
+#### ⚙️ Usage (Colossal Races Macro) ⚙️:
+- You need any map that have colossal race for 40 minutes, 1.5 hours, 6 hours (depends what you want to play and farm)
+- Any fast car that go below 350km/h (any car that go up to 400km/h will just fail and slide at any moment)
+- Then start the macro then go into the game window and start the colossal race (these macros doesn't have automatic enter button for now)
