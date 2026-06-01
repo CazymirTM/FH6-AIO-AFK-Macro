@@ -1,5 +1,5 @@
 # Forza Horizon 6 AFK AIO Macro
-A public (previously was semi-private) All-In-One FH6, this idea started from a very basic macro and basic functions, now servers as an AIO that contains multiple macros, with mostly based on the principal macro that is/was made exactly for farming Skillpoints/XP
+A public (previously was semi-private) All-In-One FH6, this idea started from a very basic macro and basic functions, now serves as an AIO that contains multiple macros, with mostly based on the principal macro that is/was made exactly for farming Skillpoints/XP
 
 **For people that want to try out beta features/early access features, here's the beta branch and go look there, it contains the download latest for every newest beta i release: https://github.com/CazymirTM/Forza-Skillpoints-AFK-Macro/tree/beta**
 
