@@ -23,9 +23,9 @@ When you contact me, please include a screenshot showing your **Steam or Xbox pl
 
 ### 📌 Requirement
 
-- ⏱️ At least **30 hours** played in Forza Horizon 6.
+- ⏱️ At least **20 hours** played in Forza Horizon 6.
 
-This requirement exists due to current circumstances and **will remain in place**. It's mainly here to help filter out throwaway accounts and keep the project in good hands.
+This requirement exists due to current circumstances and **will remain in place**. It's mainly here to help filter out throwaway accounts and keep PG games from seeing these rise in newer accounts.
 
 ---
 
