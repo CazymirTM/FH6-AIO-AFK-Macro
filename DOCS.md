@@ -33,6 +33,4 @@ This requirement exists due to current circumstances and **will remain in place*
 
 I'm really sorry for the inconvenience, but this is the best way to keep the project alive without risking the methods being burned for everyone.
 
-Thanks to everyone who's supported the project so far. I truly appreciate it, and I hope you understand why this decision had to be made.
-
 See you in Horizon! 🏁
