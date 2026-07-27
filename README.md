@@ -1,7 +1,7 @@
 # Forza Horizon 6 AFK AIO Macro
 A Semi-Private All-In-One FH6 Macro, this idea started from a very basic macro and basic functions, now serves as an AIO that contains multiple macros, with mostly based on the principal macro that is/was made exactly for farming Skillpoints/XP, the AIO is bundled as private now, the normal AIO without all the functions will still be free/public.
 
-**2.2.0 will become private again due to some circumstances, those who still have the free version is free to use it, but will not receive updates anymore, the only public version will be 2.0, contact me on discord and i can give you a free key, but with some circumstances, when you dm for the key, please send me a screenshot on Steam/Xbox App with your FH6 Hours played, if you have at least 20 hours+ played, your fine, i can give you a key, sorry for this but there was some circumstances and the macro being an AIO now, it's gonna remain like this for a while.**
+**2.2.0 will become private again due to some circumstances, those who still have the free version of 2.2.0 is free to use it continuously, but will not receive updates anymore**
 
 Read more here: [DOCUMENTATION](DOCS.md)
 
