@@ -12,6 +12,8 @@ My discord server: https://discord.gg/QzHCgneEfQ
 
 [![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-red?style=for-the-badge&logo=github)](https://github.com/CazymirTM/Forza-Skillpoints-AFK-Macro/releases/latest)
 
+[GUI of the tool](gui.png)
+
 ## ✅ Features:
 - Automatic full AFK farm (Skillpoints, 40m colossal race, 1.5 hours colossal, 6 hours colossal)
 - Automatic loading screen timmers
